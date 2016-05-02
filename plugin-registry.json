@@ -101,6 +101,11 @@
       "location": "MarcScheib/aurelia-notify"
     },
     {
+      "name": "property-injection",
+      "endpoint": "github",
+      "location": "heruan/aurelia-property-injection"
+    },
+    {
       "name": "rethink-bindtable",
       "endpoint": "github",
       "location": "kristianmandrup/aurelia-rethink-bindtable"
